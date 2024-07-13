@@ -1,3 +1,5 @@
+West Midlands Railway's WiFi service no longer includes magazines or other entertainment. It is now powered by Icomera.
+
 # loop-downloader
 A tool which downloads magazines from "The Loop" (an infotainment portal available on train services operated by London Northwestern Railway and West Midlands Railway) for offline reading later. Just connect to the WiFi, "sign in" using your email address, and run the script. As the content is hosted locally on the train, your downloads should complete in a matter of minutes. Downloaded magazines will be placed in individual folders within the folder the script is run from, with each page saved as a JPG image.
 
